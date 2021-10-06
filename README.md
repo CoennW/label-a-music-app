@@ -1,3 +1,15 @@
+#Preperation
+Before I started coding I did quick research about: 
+### CSS Modules 
+### useEffect
+### last.fm
+### Quick component design:
+![desktop - main screen](https://user-images.githubusercontent.com/10981441/136246464-04f6888b-6d90-4ad4-82ec-30672238c83b.png)
+![desktop - album detail view](https://user-images.githubusercontent.com/10981441/136246470-3dd1eef6-5b22-4560-9497-ef8deb196a66.png)
+![desktop - favourites view](https://user-images.githubusercontent.com/10981441/136246476-10b53433-1e50-435e-9c06-222f2fea3bf8.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
