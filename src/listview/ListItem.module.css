@@ -1,0 +1,23 @@
+.flex {
+    display: flex;
+}
+
+.item {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid grey;
+}
+
+.gap {
+    
+    gap: 20px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.album {
+    color: rgb(158, 158, 158);
+}
